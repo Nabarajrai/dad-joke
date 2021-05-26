@@ -1,0 +1,8 @@
+.Cola img {
+  height: 200px;
+  width: 200px;
+}
+.Cola {
+  max-width: 200px;
+  margin: auto;
+}

@@ -1,0 +1,10 @@
+.vending {
+  background-image: url(./vending.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 40em;
+  margin-top: -25px;
+  display: flex;
+  align-items: center;
+}
